@@ -1,1 +1,1 @@
-# Tamilarasan_M
+# Used CORE JAVA for solving the programming questions.
